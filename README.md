@@ -1,4 +1,4 @@
-# My-portfolio
+# My_Portfolio
 
 Hello! I’m Bijivemula Sai Ram Reddy, a passionate and motivated Software Developer with a strong enthusiasm for technology, problem-solving, and innovation. My journey into software development began with a simple curiosity about how technology works — how lines of code can transform ideas into impactful solutions that simplify lives and connect people worldwide. Over time, that curiosity evolved into a deep passion for designing and building software that makes a difference.
 
